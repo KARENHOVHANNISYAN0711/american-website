@@ -1,0 +1,484 @@
+@media only screen and (max-width:1286px){
+    .nav-list>li>a{
+        font-size:13px;
+    }
+    .button-book-table{
+        width:150px;
+    }
+    .steak{
+        width:300px;
+    }
+    .grilled-steak{
+        width:350px;
+    }
+    .cezr-salad{
+        width:350px;
+    }
+    .paragraf-american-steakhouse{
+        font-size:25px;
+    }
+    .sectionone-line{
+        display:none;
+    }
+    .sectionone-h3-pretium-text{
+        font-size:16px;
+    }
+    .contact{
+        margin-left:30px;
+    }
+}
+
+@media only screen and (max-width:1220px){
+    .sectionone-h3-pretium-text{
+        font-size:14px;
+    }
+}
+
+@media only screen and (max-width:1220px){
+    .nav-list>li>a{
+        font-size:11px;
+    }
+    .button-book-table{
+        width:130px;
+    }
+    .steak{
+        width:200px;
+    }
+    .grilled-steak{
+        width:280px;
+    }
+    .cezr-salad{
+        width:280px;
+    }
+}
+
+@media only screen and (max-width:1200px){
+    .paragraf-american-steakhouse{
+        font-size:20px;
+    }
+}
+
+@media only screen and (max-width:1145px){
+    .paragraf-grilled-beef-steak{
+        font-size:20px;
+    }
+}
+
+@media only screen and (max-width:1110px){
+    .sectionone-h3-pretium-text{
+        font-size:20px;
+    }
+    .wine-glass{
+        width:60px;
+        height:60px;
+    }
+    .sectionone-h3-pretium-text{
+        font-size:17px;
+    }
+}
+
+@media only screen and (max-width:1150px){
+    .paragraf-united-steak{
+        font-size:20px;
+    }
+}
+
+@media only screen and (max-width:1050px){
+    .sectionone-textwallpaper-par{
+        flex-direction:column;
+    }
+    .paragraf-american-steakhouse{
+        text-align:center;
+    }
+    .paragraf-grilled-beef-steak{
+        font-size:20px;
+        text-align:center;
+    }
+    .sectionone-wallpaper-gtilledsteack{
+         width:400px;
+         margin-right:200px;
+    }
+}
+
+@media only screen and (max-width:1031px){
+    .nav-list>li>a{
+        font-size:10px;
+    }
+    .button-book-table{
+        width:120px;
+    }
+    .wallpaper-steakpretium{
+        width:480px;
+    }
+    .wine-glass{
+        width:40px;
+        height:40px;
+    }
+}
+
+@media only screen and (max-width:1010px){
+    .paragraf-united-steak{
+        font-size:17px;
+    }
+    .pouder{
+        width:300px;
+    }
+    .lamp{
+        width:300px;
+    }
+    .coffee{
+        width:300px;
+    }
+}
+
+@media only screen and (max-width:1000px){
+    .menu-burger{
+        padding-top:18px;
+    }
+    .wine-glass{
+        display:none;
+    }
+    .paragraf-grilled-beef-steak{
+        display:none;
+    }
+    .sectionone-textwallpaper-par-three{
+        flex-direction:column;
+    }
+    .sectionone-text-three-par{
+        margin:0 auto;
+    }
+    .wine{
+        margin-top:30px;
+    }
+    .h3-text-wine{
+        font-size:40px;
+    }
+    .sectionone-h3-pretium-text{
+        font-size:20px;
+    }
+    .book-table-contact{
+        flex-direction:column;
+    }
+    .contact{
+        margin:0 auto;
+        margin-top:20px;
+    }
+    .sectiontwo-wallpaper-par{
+        flex-direction:column;
+    }
+    .pouder{
+        margin:0 auto;
+    }
+    .lamp{
+        margin:0 auto;
+    }
+    .coffee{
+        margin:0 auto;
+    }
+    .sectiontwo-text-par{
+        flex-direction:column;
+    }
+    .paragraf-united-steak{
+        text-align:center;
+    }
+    .sectiontwo-h5text{
+        text-align:center;
+    }
+    .sectiontwo-text{
+        margin:0 auto;
+        padding:20px;
+    }
+    .footer-conteiner{
+        flex-direction:column;
+    }
+    .footer-logo{
+        width:250px;
+    }
+    .footer-contact-par{
+        padding-top:50px;
+        width:400px;
+    }
+
+}
+
+@media only screen and (max-width:993px){
+    .sectionone-h3-pretium-text{
+        font-size:17px;
+    }
+}
+
+@media only screen and (max-width:966px){
+    .paragraf-united-steak{
+        font-size:15px;
+    }
+}
+
+@media only screen and (max-width:946px){
+    .nav-list>li>a{
+        font-size:8px;
+    }
+}
+
+@media only screen and (max-width:941px){
+    .nav-list>li>a{
+        display:none;
+    }
+}
+
+@media only screen and (max-width:900px){
+    .button-book-table{
+        display:none !important;
+    }
+    .menu-burger{
+        color:red;
+        display:block !important;
+        font-size:30px;
+    }
+    .wallpaper-steakpretium{
+        width:400px;
+    }
+}
+
+@media only screen and (max-width:841px){
+    .steak{
+        width:170px;
+    }
+    .grilled-steak{
+        width:250px;
+    }
+    .cezr-salad{
+        width:250px;
+    }
+}
+
+@media only screen and (max-width:830px){
+    .paragraf-discover-menu{
+        font-size:40px;
+    }
+    .sectionone-h3-pretium-text{
+        font-size:14px;
+    }
+}
+
+@media only screen and (max-width:768px){
+    .grilled-steak-wallpaper{
+        flex-direction:column;
+        padding:20px;
+    }
+    .steak{
+        width:400px;
+        margin-left:30px;
+    }
+    .grilled-steak{
+        width:400px;
+    }
+    .cezr-salad{
+        width:400px;
+    }
+    .sectionone-textwallpaperpar-two{
+        flex-direction:column;
+    }
+    .wallpaper-steakpretium{
+        margin:0 auto;
+    }
+    .sectionone-text-two-par{
+        margin:0 auto;
+    }
+    .sectionone-h3-pretium-text{
+        font-size:13px;
+    }
+    .footer-icon{
+        padding:15px;
+        margin-right:10px;
+        font-size:15px;
+    }
+}
+
+@media only screen and (max-width:705px){
+    .paragraf-united-steak{
+        font-size:18px;
+    }
+}
+
+@media only screen and (max-width:700px){
+    .footer-contact{
+        flex-direction:column !important;
+    }
+}
+
+
+@media only screen and (max-width:636px){
+    .paragraf-united-steak{
+        font-size:16px;
+    }
+}
+
+@media only screen and (max-width:662px){
+    .wine{
+        width:400px;
+        height:400px;
+        margin:0 auto;
+    }
+}
+
+@media only screen and (max-width:590px){
+    .paragraf-united-steak{
+        font-size:15px;
+    }
+}
+
+@media only screen and (max-width:560px){
+    .paragraf-united-steak{
+        font-size:13px;
+    }
+}
+
+@media only screen and (max-width:520px){
+    .wine{
+        width:300px;
+        height:300px;
+        margin:0 auto;
+        margin-top:30px;
+    }
+}
+
+@media only screen and (max-width:485px){
+    .wallpaper-steakpretium{
+        width:300px;
+    }
+    .steak{
+       min-height:300px;
+    }
+    .grilled-steak{
+        min-height:300px;
+    }
+    .cezr-salad{
+        min-height:300px;
+    }
+    .paragraf-book-a-table{
+         font-size:40px;
+    }
+    .sectiontwo-h2text-latest-articles{
+        font-size:40px;
+    }
+    .sectionone-h3-pretium-text{
+        width:200px;
+    }
+    .paragraf-grilled-beef-steak{
+        width:70px;
+    }
+    .footer-paragraf{
+        display:none;
+    }
+    .footer-icon{ 
+        display:none !important;
+    }
+    .footer-contact-par{
+        width:300px;
+    }
+}
+
+@media only screen and (max-width:461px){
+    .steak{
+        width:350px;
+        margin-left:30px;
+    }
+    .grilled-steak{
+        width:350px;
+    }
+    .cezr-salad{
+        width:350px;
+    }
+}
+
+@media only screen and (max-width:436px){
+    .contact{
+        width:210px;
+    }
+    .sectiontwo-h2text-latest-articles{
+        font-size:30px;
+    }
+    .paragraf-american-steakhouse{
+        width:200px;
+    }
+    .paragraf-grilled-beef-steak{
+        margin-top:30px;
+        width:200px;
+        padding-right:40px;
+    }
+    .wallpaper-steakpretium{
+        margin-bottom:20px;
+        width:250px;
+    }
+}
+
+@media only screen and (max-width:426px){
+    .wine{
+        width:200px;
+        height:200px;
+        margin:0 auto;
+        margin-top:30px;
+    }
+    .wallpaper-steakpretium{
+        width:200px;
+        height:200px;
+        margin:0 auto;
+    }
+    .pouder{
+        width:250px;
+        padding-right:50px;
+    }
+    .lamp{
+        width:250px;
+        padding-right:50px;
+    }
+    .coffee{
+        width:250px;
+        padding-right:50px;
+    }
+    .paragraf-discover-menu{
+        font-size:20px;
+        margin-right:90px;
+        padding-top:10px;
+    }
+    .sectionone-h3-text{
+        padding-right:60px;
+    }
+    .paragraf-american-steakhouse{
+        padding-right:80px;
+    }
+    .paragraf-grilled-beef-steak{
+        display:none;
+    }
+    .contact{
+        margin:20px;
+    }
+}
+
+@media only screen and (max-width:400px){
+    .steak{
+        width:300px;
+        margin-left:30px;
+    }
+    .grilled-steak{
+        width:300px;
+    }
+    .cezr-salad{
+        width:300px;
+    }
+}
+
+@media only screen and (max-width:340px){
+    .steak{
+        width:200px;
+        margin-right:35px;
+    }
+    .grilled-steak{
+        width:250px;
+        margin-right:30px;
+    }
+    .cezr-salad{
+        width:250px;
+        margin-right:30px;
+    }
+}
